@@ -1,0 +1,55 @@
+body {
+	background-color: black
+}
+
+#container {
+	margin: 0 auto;
+	width: 1020px;
+}
+
+#cabecalho {
+	float: left;
+}
+
+#buscar {
+	float: left;
+	margin-left: 20px;
+}
+
+#img_1 {
+	clear: both;
+	padding-top: 5px;
+}
+
+#casulo {
+	width: 1000px;
+	color: white;
+}
+
+#videos {
+	width: 250px;
+	float: left;
+	border-right: 2px solid white;
+	padding-right: 50px;
+}
+
+
+#conteudo {
+	float: left;
+	margin-left: 50px;
+	width: 500px;
+	border-bottom: 2px solid white;
+	margin-bottom: 25px;
+}
+
+#conteudo_2 {
+	float: left;
+	margin-left: 50px;
+	border-bottom: 2px solid white;
+	margin-bottom: 25px;
+}
+
+#conteudo_3 {
+	float: left;
+	margin-left: 50px;
+}
